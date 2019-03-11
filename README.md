@@ -1,2 +1,3 @@
 # hello-world
-This is my first project.
+这是我的第一个项目。
+你好 - 世界！
